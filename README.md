@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NayAungLin910
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning python, django and other python related libraries
+- 👋 Hi, I’m @NayAungLin910.
+- 👀 I’m interested in computer science.
+- 🌱 I’m currently learning python, django and other python related libraries.
 - 💞️ I’m looking to collaborate on [noting right now]
 - 📫 How to reach me nayaunglin910@gmail.com
 
