@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NayAungLin910.
-- 👀 I’m interested in website development.
-- 🌱 I’m currently learning laravel framework.
+- 👀 I’m interested in full stack website development.
+- 🌱 I’m currently learning Laravel and React.
 - 💞️ I’m looking to collaborate on [noting right now]
 - 📫 How to reach me nayaunglin910@gmail.com
 <!---
