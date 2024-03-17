@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NayAungLin910.
 - 👀 I’m interested in full-stack web-development.
-- 🌱 I’m currently learning Laravel, Livewire, Vue, React and Tailwind CSS.
+- 🌱 I’m currently learning Java and Angular.
 - 📫 How to reach me nayaung54545454@gmail.com
